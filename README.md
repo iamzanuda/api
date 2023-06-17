@@ -2,7 +2,7 @@
 
 Ссылка на проект [**api_final_yatube**](https://github.com/iamzanuda/api_final_yatube)
 
-- Клонировать репозиторий и перейти в него в командной строке:
+**Клонировать репозиторий и перейти в него в командной строке:**
 
 ```
 git clone https://github.com/iamzanuda/api_final_yatube.git
@@ -12,7 +12,7 @@ git clone https://github.com/iamzanuda/api_final_yatube.git
 cd api_final_yatube
 ```
 
-- Cоздать и активировать виртуальное окружение:
+**Cоздать и активировать виртуальное окружение:**
 
 ```
 python -m venv env
@@ -22,7 +22,7 @@ python -m venv env
 source venv/Scripts/activate
 ```
 
-- Установить зависимости из файла requirements.txt:
+**Установить зависимости из файла requirements.txt:**
 
 ```
 python -m pip install --upgrade pip
@@ -32,13 +32,13 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-- Выполнить миграции:
+**Выполнить миграции:**
 
 ```
 python manage.py migrate
 ```
 
-- Запустить проект:
+**Запустить проект:**
 
 ```
 python manage.py runserver
