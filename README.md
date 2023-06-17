@@ -43,3 +43,7 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+![python version](https://img.shields.io/badge/Python-3.9-yellowgreen) 
+![python version](https://img.shields.io/badge/Django-2.2.16-yellowgreen) 
+![python version](https://img.shields.io/badge/djangorestframework-3.12.4-yellowgreen) 
+![python version](https://img.shields.io/badge/djangorestframework--simplejwt-5.1-yellowgreen)
