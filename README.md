@@ -5,9 +5,18 @@
 [![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-464646??style=flat-square&logo=Django)]([https://www.djangoproject.com/](https://www.django-rest-framework.org/))
 [![JSON Web Token Authentication](https://img.shields.io/badge/-JWT%20Authentication-464646??style=flat-square&logo=Django)](https://www.django-rest-framework.org/api-guide/authentication/#json-web-token-authentication)
 
-Проект API для социальной сети.
+**Проект API для социальной сети.**
++ Аутентификация пользователя.
++ Возможность создания, удаления, редактирования, коментирования и подписки на другого автора для аутентифицированного пользователя.
++ Возможность просматривать посты для не аутентифицированного пользователя.
 
-Скачать проект можно здесь [**api_final_yatube**](https://github.com/iamzanuda/api_final_yatube)
+**Используемые технологии:**
++ Django==3.2.16
++ djangorestframework==3.12.4
++ djangorestframework-simplejwt==4.7.2
++ djoser==2.1.0
+
+_Скачать проект можно здесь [**api_final_yatube**](https://github.com/iamzanuda/api_final_yatube)_
 
 ### Как запустить проект:
 
