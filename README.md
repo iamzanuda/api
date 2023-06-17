@@ -1,6 +1,6 @@
 ### Как запустить проект:
 
-Ссылка на проект [**api_final_yatube**](https://github.com/iamzanuda/api_final_yatube)
+Скачать проект можно здесь [**api_final_yatube**](https://github.com/iamzanuda/api_final_yatube)
 
 **Клонировать репозиторий и перейти в него в командной строке:**
 
