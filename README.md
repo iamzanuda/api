@@ -1,4 +1,4 @@
-# API Yatube
+# API
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646??style=flat-square&logo=Django)](https://www.djangoproject.com/)
@@ -62,7 +62,7 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
-### Примеры запросов:
+**Примеры запросов:**
 
 _Получение списка публикаций **GET** запросом api/v1/posts/_
 
@@ -97,3 +97,4 @@ Response
 "post": 0
 }
 ```
+**Автор:** _Yaroslav Baramykov_
